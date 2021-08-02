@@ -111,15 +111,6 @@
         End If
     End Sub
 
-
-    Private Sub AskOne()
-
-    End Sub
-
-    Private Sub RadioAsk1AnsA_CheckedChanged(sender As Object, e As EventArgs) Handles RadioAsk1AnsA.CheckedChanged
-
-    End Sub
-
     Private Sub ButtonEnd_Click(sender As Object, e As EventArgs) Handles ButtonEnd.Click
         Rate()
     End Sub
